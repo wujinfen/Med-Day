@@ -3,7 +3,7 @@
 Med-Day is an 8bit style, decision-based text game created to stimulate EMT protocols. Med-Day was created for the Pitt Challenge 2023 Healthcare Hackathon and won the 'Supporting Caregivers' track.
 
 Our Pitch & Demo: 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![MED-DAY](https://img.youtube.com/vi/Ic0oW_qfJw8&t/0.jpg)](https://www.youtube.com/watch?v=Ic0oW_qfJw8&t "Med-Day")
 
 DevPost: https://devpost.com/software/med-day?ref_content=my-projects-tab&ref_feature=my_projects
 
