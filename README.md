@@ -26,7 +26,7 @@ Our biggest challenge stemmed from our lack of experience with collaborative cod
 
 ## What We're Proud Of and What We Learned
 
-To be honest, getting the game as fleshed out as we did was pretty impressive to all of us. This is all of our first hackathons, and none of us had any experience in game development. So, we came in without high expectations and blew those out of the water. We're especially proud of creating something unique that we had genuine interest in and making charming with a pleasing aesthetic. 
+To be honest, getting the game as fleshed out as we did was pretty impressive to all of us. This is all of our first hackathons, and none of us had any experience in game development. So, we came in without high expectations and blew those out of the water. We're especially proud of creating something unique that we had genuine interest in and making the game charming with a pleasing aesthetic. 
 
 Everyone learned a lot. We learned through trial and error about the game development process, graphic design, debugging, and *especially* disciplined collaborative coding. We also gained a better understanding of the emergency medicine scene and the important work that EMTs do. 
 
