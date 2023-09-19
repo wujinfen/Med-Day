@@ -6,7 +6,7 @@ Med-Day is an 8bit style, decision-based text game created to stimulate EMT prot
 
 Our Pitch & Demo (hyperlinked): [![med-day](https://github.com/wujinfen/Med-Day_PittChallengeHackathon2023/assets/136756432/b018f533-f125-4408-80bc-c0c47a14c980)](https://www.youtube.com/watch?v=Ic0oW_qfJw8&t "Med-Day")
 
-DevPost: https://devpost.com/software/med-day?ref_content=my-projects-tab&ref_feature=my_projects
+DevPost: https://devpost.com/software/med-day
 
 ## Inspiration
 
