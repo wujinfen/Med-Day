@@ -18,7 +18,7 @@ Our text-based story game takes players through an emergency field scenario and 
 
 ## How We Built It
 
-We started by researching standard EMT protocol from the PA Basic Life Support Protocols handbook. We chose a cardiac chest pain scenario and storyboarded the progression of the game. Then we developed the menus, GUI, and integrated our story logic into the environment. Finally, we added music, sound effects, and pixel art. The code was created using python/pygame.
+We started by researching standard EMT protocol from the PA Basic Life Support Protocols handbook. We chose a cardiac chest pain scenario and storyboarded the progression of the game. Then we developed the menus, GUI, and integrated our story logic into the environment. Finally, we added music, sound effects, and pixel art. Coded with python/pygame.
 
 ## Challenges We Ran Into
 
