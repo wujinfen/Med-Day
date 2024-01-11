@@ -2,7 +2,8 @@
 
 Med-Day is an 8bit style, decision-based text game created to stimulate EMT protocols. Med-Day was created for the Pitt Challenge 2023 Healthcare Hackathon and won the 'Supporting Caregivers' track.
 
--please run buttonGame2.py-
+-Created with Python and pyGame-
+
 
 Our Pitch & Demo (hyperlinked): [![med-day](https://github.com/wujinfen/Med-Day_PittChallengeHackathon2023/assets/136756432/b018f533-f125-4408-80bc-c0c47a14c980)](https://www.youtube.com/watch?v=Ic0oW_qfJw8&t "Med-Day")
 
@@ -18,7 +19,7 @@ Our text-based story game takes players through an emergency field scenario and 
 
 ## How We Built It
 
-We started by researching standard EMT protocol from the PA Basic Life Support Protocols handbook. We chose a cardiac chest pain scenario and storyboarded the progression of the game. Then we developed the menus, GUI, and integrated our story logic into the environment. Finally, we added music, sound effects, and pixel art. Coded with python/pygame.
+We started by researching standard EMT protocol from the PA Basic Life Support Protocols handbook. We chose a cardiac chest pain scenario and storyboarded the progression of the game. Then we developed the menus, GUI, and integrated our story logic into the environment. Finally, we added music, sound effects, and pixel art. All Coded with python/pygame.
 
 ## Challenges We Ran Into
 
